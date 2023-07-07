@@ -21,7 +21,7 @@ This project is a web-based application that aims to replicate the core function
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone https://github.com/your-username/spotify-clone.git`
+1. Clone the repository: `https://shiva2478.github.io/Spotify-Clone-Application/`
 2. Navigate to the project directory: `cd spotify-clone`
 3. Open the application in a web browser by opening `index.html`.
 
