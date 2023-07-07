@@ -37,6 +37,6 @@ The Spotify Clone Application project is licensed under the [MIT License](LICENS
 ## Contact
 
 If you have any questions or suggestions regarding the Spotify Clone Application, feel free to contact Shiva at beingshiva78@gmail.com.
-and My linkdin : https://www.linkedin.com/in/shiva2478/
+and My linkedin : https://www.linkedin.com/in/shiva2478/
 
 Enjoy using the Spotify Clone Application!
